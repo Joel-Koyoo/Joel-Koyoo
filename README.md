@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+If you cant fly then run if you cant run then walk if you cant walk then crawl but whatever you do keep moving forward
 <!--
 **Joel-Koyoo/Joel-Koyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
