@@ -1,4 +1,4 @@
-## Do Epic Shit, Learn more and remember why you do it everyday
+## Do Epic Shit, if you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do keep moving forward
 <div>
   <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=Joel-Koyoo&show_icons=true" />
   <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Koyoo&theme=light" alt="Joel-Koyoo" />
