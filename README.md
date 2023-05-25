@@ -1,23 +1,15 @@
-## If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do keep moving forward
-<div>
-  <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=Joel-Koyoo&show_icons=true" />
-  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Koyoo&theme=light" alt="Joel-Koyoo" />
-  
-</div>
-<div>
-  <img width="46%", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Koyoo&hide=html,shell&langs_count=10&layout=compact&theme=light" />
-</div>
-<!--
-**Joel-Koyoo/Joel-Koyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm a passionate full-stack developer with a diverse skill set and experience in building robust web applications. Let me give you a brief overview of my expertise:
 
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 JavaScript: I have a strong command of JavaScript and its modern frameworks, particularly React.js. I've developed dynamic and interactive user interfaces using React.js, harnessing its component-based architecture and virtual DOM for efficient rendering.
+
+🐍 Python: I'm well-versed in Python and have leveraged its versatility to create scalable web applications. With Django, I've built secure and high-performance backends, incorporating features like authentication, RESTful APIs, and database management.
+
+🌐 Full-Stack Development: I excel in full-stack development, combining my frontend and backend skills to create end-to-end solutions. Whether it's crafting intuitive user experiences or architecting robust server logic, I strive for seamless integration and optimal performance.
+
+🌱 Nest.js: I'm proficient in Nest.js, a powerful TypeScript framework for building scalable and maintainable server-side applications. Its modular architecture, dependency injection, and extensive ecosystem have allowed me to deliver efficient and scalable APIs.
+
+☁️ DigitalOcean: I have hands-on experience with DigitalOcean and have successfully deployed applications to their cloud infrastructure. From configuring servers to managing networking and storage, I'm comfortable navigating the complexities of hosting and server-side configurations.
+
+🛠️ Problem Solving: I'm passionate about tackling complex problems and finding elegant solutions. With a strong analytical mindset and attention to detail, I enjoy breaking down challenges into manageable tasks and applying my technical skills to overcome them.
+
+🌟 If you're looking for a full-stack developer who can bring your ideas to life and deliver robust, scalable applications, I'd love to chat with you! Let's collaborate and build something amazing together. Feel free to reach out and let's start creating!
