@@ -1,6 +1,6 @@
-Full-Stack Developer
+Back-End Developer
 
-👋 Hi there! I'm a passionate full-stack developer with a diverse skill set and experience in building robust web applications. Let me give you a brief overview of my expertise:
+👋 Hi there! I'm a passionate Backend developer with a diverse skill set and experience in building robust web applications. Let me give you a brief overview of my expertise:
 
     🚀 JavaScript: I have a strong command of JavaScript and its modern frameworks, particularly React.js. I've developed dynamic and interactive user interfaces using React.js, harnessing its component-based architecture and virtual DOM for efficient rendering.
 
